@@ -1,0 +1,58 @@
+2) The given data suggests that some of the colums are homogeneous. But some Individual items are considered as Heterogenous.
+
+3) It is homogenous, because all the variables are homogenous.
+
+4)  It is not hetrogenous, because the the valuee are close to one another.
+
+5) Homogenous variables - (crim, zn, indus, chas, nox, rm, age, dis, rad, ptratio, b, ishat, medv)
+   Hetrogenous variables - (tax)
+
+6) No. of variables - 14
+    No. observations - 506
+
+7) MCT
+       Mean(crim) - 3.61352355731225
+       Mean(ishat) - 12.65306324
+       Mean(medv) - 22.53280632
+       Median(crim) - 0.25651
+       Median(ishat) - 11.36
+       Median(medv) - 21.2
+       Mode(crim) - 0.01501
+       Mode(ishat) - 8.05
+       Mode(medv) - 50
+       Quartiles(crim) - min=0.00632
+                                  Q1= 0.08
+                                  Q2= 0.25
+                                  Q3= 3.67
+                                  Max= 88.97
+        Quartiles(ishat) - Min=1.73
+                                  Q1= 6.9
+                                  Q2= 11.32
+                                  Q3= 16.9
+                                  Max=37.97
+        Quartiles(ishat) - Min=5
+                                  Q1= 16.7
+                                  Q2= 21.2
+                                  Q3= 25
+                                  Max=50
+
+MOD
+           Range(crim) - 88.96
+           Range(ishat) - 36.24
+           Range(medv) - 45
+
+           Variance(crim) - 73.98
+           Variance(ishat) - 50.99
+           Variance(medv) - 84.58
+
+            IQR(crim) - 3.59
+            IQR(ishat) - 10
+            IQR(medv) - 8.3      
+
+            Skewness(crim) - variable crim is positively skewed
+            Skewness(ishat) - variable ishat is positively skewed
+            Skewness(medv) -  variable medv is postitively skewed                   
+
+            Kurtosis(crim) - The tail is thick and its leptokurtic
+            Kurtosis(ishat) - The tail is thick and its leptokurtic
+            Kurtosis(medv) - The tail is thick and its leptokurtic
